@@ -14,8 +14,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: start;
-  width: 520px;
-  min-height: 600px;
+  width: 570px;
+  min-height: 400px;
   background: black;
   text-align: center;
   margin: 128px auto;
@@ -53,6 +53,8 @@ h2 {
 }
 
 .todo-button {
+ 
+  margin-top: 20px;
   padding: 16px;
   border: none;
   border-radius: 0 4px 4px 0;
